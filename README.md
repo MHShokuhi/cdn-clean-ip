@@ -33,7 +33,7 @@ Fastly and Gcore are mixed and more general.
 
 ## How to Use?
 
-If your config useses these CDNs and stops working, or it's too slow, you might be able to revive them by replacing the address value with one of these IPs.
+If your config uses these CDNs and stops working, or it's too slow, you might be able to revive them by replacing the address value with one of these IPs.
 
 ## File Format
 
@@ -45,7 +45,7 @@ If your config useses these CDNs and stops working, or it's too slow, you might 
 ## Update Policy
 
 - Updated when **I** need new clean results
-- No fixed schedule - since I scan these IPs for personal use, might as well share them so others can benefit too.
+- No fixed schedule - since I scan these IPs for personal use, might as well share them so others can benefit too
 
 ## Disclaimer
 
